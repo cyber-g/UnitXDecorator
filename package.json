@@ -3,6 +3,9 @@
   "displayName": "UnitXDecorator",
   "description": "This VS Code extension automatically decorates units in your LaTeX documents with the appropriate siunitx commands for improved typesetting.",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cyber-g/UnitXDecorator"},
   "engines": {
     "vscode": "^1.96.0"
   },
